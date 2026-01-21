@@ -1,0 +1,48 @@
+[
+  {
+    "id": "1",
+    "name": "Ethereal Silk Blouse",
+    "description": "A flowing silk blouse with ethereal patterns that catch the light beautifully. Perfect for both casual and formal occasions.",
+    "price": 89.99,
+    "images": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800",
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800"
+    ],
+    "category": "Tops",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "colors": ["White", "Black", "Rose"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Void Denim Jacket",
+    "description": "A statement denim jacket with unique void-inspired details. Edgy yet sophisticated.",
+    "price": 129.99,
+    "images": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=800",
+      "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=800"
+    ],
+    "category": "Outerwear",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Blue", "Black"],
+    "inStock": true,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Minimalist Wide Leg Pants",
+    "description": "Comfortable and stylish wide leg pants with a minimalist design. Perfect for creating effortless looks.",
+    "price": 79.99,
+    "images": [
+      "https://images.unsplash.com/photo-1594633313593-bab3825d0caf?w=800",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=800"
+    ],
+    "category": "Bottoms",
+    "sizes": ["XS", "S", "M", "L"],
+    "colors": ["Black", "Beige", "Navy"],
+    "inStock": true,
+    "featured": false
+  }
+]
+
